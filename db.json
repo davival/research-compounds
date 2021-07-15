@@ -260,19 +260,10 @@
 			"STUFF_WEIGHT": "376.457",	
 			"COMMENTS_STEREO": " ISOMER NO.2",	
 			"CREATION_DATE": "01-JAN-82"
-			},
-			{
-			"SAMPLE_ID": "L-000155671-000L001",	
-			"COMPOUND_ID": "L-000155671-000L",	
-			"FIRSTNAME": "WILLIAM",	
-			"LASTNAME": "PARSONS",	
-			"STUFF_WEIGHT": "220.184",	
-			"COMMENTS_STEREO": "D-ALA",	
-			"CREATION_DATE": "01-JAN-82"
 			}
 			],
 			"paging": {
-			"total": 30	
+			"total": 29	
 			}
 			
 }			
